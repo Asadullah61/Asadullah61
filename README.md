@@ -1,77 +1,68 @@
-# 🌐 Web Development Portfolio, as blockchain technology
+# Hi, I'm Asadullah 👋
 
-Welcome to my GitHub profile! This repository showcases my work, skills, and projects in **web development**. Here, you’ll find examples of front-end, back-end, and full-stack projects demonstrating my coding skills and design capabilities.
-
----
-
-## 🚀 About Me
-
-Hi! I’m Asadullah, a passionate **web developer** focused on building interactive, responsive, and user-friendly web applications. I enjoy learning new technologies and turning ideas into reality with clean, efficient code.
-
-- 💻 **Languages:** HTML, CSS, JavaScript, TypeScript, Python  
-- ⚡ **Frameworks & Libraries:** React, Node.js, Express, Django, Bootstrap, Tailwind CSS  
-- 🛠️ **Tools & Platforms:** Git, GitHub, VS Code, Postman, Firebase, MongoDB, MySQL  
-- 🌱 **Currently Learning:** Next.js, GraphQL, Docker  
-- 📫 **Contact Me:** [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourhandle)
+I'm a passionate **Full-Stack Web Developer** focused on building modern, responsive, and user-friendly web applications using the **MERN Stack**.
 
 ---
 
-## 📂 Project Portfolio
+## 🚀 Featured Projects
 
-### 1. **Project Name 1**
-- **Description:** A brief description of what the project does and its purpose.  
-- **Tech Stack:** HTML, CSS, JavaScript, React  
-- **Live Demo:** [Project Link](https://yourprojectlink.com)  
-- **GitHub Repo:** [Repository Link](https://github.com/yourusername/project1)
+### 🛒 ShopVault — E-Commerce Web App
+> A full-stack e-commerce platform built with the MERN Stack
 
-### 2. **Project Name 2**
-- **Description:** Explain the problem it solves or its functionality.  
-- **Tech Stack:** Node.js, Express, MongoDB  
-- **Live Demo:** [Project Link](https://yourprojectlink.com)  
-- **GitHub Repo:** [Repository Link](https://github.com/yourusername/project2)
+- 🛍️ Product browsing, cart management, and user authentication
+- 🔐 JWT-based secure login & registration
+- 🧑‍💼 Admin panel for product & order management
+- 📱 Fully responsive UI
 
-### 3. **Project Name 3**
-- **Description:** Summary of features and user benefits.  
-- **Tech Stack:** Python, Django, Bootstrap  
-- **Live Demo:** [Project Link](https://yourprojectlink.com)  
-- **GitHub Repo:** [Repository Link](https://github.com/yourusername/project3)
+| | Link |
+|---|---|
+| 🌐 Frontend (Vercel) | [shop-vault-py2r.vercel.app](https://shop-vault-py2r.vercel.app) |
+| 🌐 Frontend (Netlify) | [shopvault33.netlify.app](https://shopvault33.netlify.app) |
+| ⚙️ Backend (Vercel) | [shop-vault-5jqy.vercel.app](https://shop-vault-5jqy.vercel.app) |
+| 📁 Repository | [github.com/Asadullah61/ShopVault](https://github.com/Asadullah61/ShopVault) |
 
----
-
-## 🛠️ Skills
-
-| Front-End | Back-End | Database | Tools |
-|-----------|----------|---------|-------|
-| HTML5 | Node.js | MySQL | Git & GitHub |
-| CSS3 | Express.js | MongoDB | VS Code |
-| JavaScript | Django | PostgreSQL | Postman |
-| React.js | REST APIs | Firebase | Chrome DevTools |
-| Tailwind CSS | GraphQL | SQLite | Figma |
+**Tech Stack:**
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Netlify` `Vercel`
 
 ---
 
-## 📈 GitHub Stats
+### 🌐 Portfolio Website
+> Personal portfolio showcasing my skills and projects
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+- 📄 Clean, modern design
+- 📬 Contact section
+- 🔗 Links to all projects
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+| | Link |
+|---|---|
+| 🌐 Live | [timely-mochi-406631.netlify.app](https://timely-mochi-406631.netlify.app) |
 
----
-
-## 🤝 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- [Twitter](https://twitter.com/yourhandle)  
-- [Portfolio Website](https://yourportfolio.com)  
-- [Email](mailto:your.email@example.com)
-
----
-
-## 📜 License
-
-This repository is licensed under the [MIT License](LICENSE).
+**Tech Stack:**
+`HTML` `CSS` `JavaScript` `Netlify`
 
 ---
 
+## 🛠️ Tech Stack
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+**Frontend**
+`React.js` `HTML5` `CSS3` `JavaScript` `TypeScript`
+
+**Backend**
+`Node.js` `Express.js`
+
+**Database**
+`MongoDB` `MongoDB Atlas`
+
+**Tools & Deployment**
+`Git` `GitHub` `Vercel` `Netlify` `VS Code`
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: [asdmari61@gmail.com](mailto:asdmari61@gmail.com)
+- 💼 GitHub: [@Asadullah61](https://github.com/Asadullah61)
+
+---
+
+> *"Clean code always looks like it was written by someone who cares."*
