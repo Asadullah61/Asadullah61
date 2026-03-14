@@ -97,7 +97,7 @@
 
 <p align="center">
   <a href="mailto:asadmari61@gmail.com">
-    <img src="https://img.shields.io/badge/Email-asdmari61@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-asadmari61@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Asadullah61">
     <img src="https://img.shields.io/badge/GitHub-@Asadullah61-181717?style=for-the-badge&logo=github&logoColor=white" />
